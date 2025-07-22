@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Scrapy
+.scrapy/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# Output files
+*.json
+*.csv
+*.xml
+*.jl
